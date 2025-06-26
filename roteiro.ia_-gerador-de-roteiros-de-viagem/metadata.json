@@ -1,0 +1,6 @@
+{
+  "name": "Roteiro.IA: Gerador de Roteiros de Viagem",
+  "description": "Uma aplicação web que utiliza o Google Gemini API para gerar roteiros de viagem personalizados e salvar o histórico de roteiros gerados.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
